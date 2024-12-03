@@ -35,7 +35,7 @@ Execution Steps
 1. Clone this repository:
 ```
    bash
-   git clone https://github.com/[Your_Username]/Healthcare_Facility_Analysis.git
+   git clone https://github.com/Codewithsumeet/MechAI-HealthCare-Facility-Analysis.git
    ```
 2. Navigate to the `src/` folder and run the analysis script:
    ```bash
