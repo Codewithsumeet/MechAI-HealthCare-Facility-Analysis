@@ -42,9 +42,11 @@ Execution Steps
    cd src
    python analysis.py
    ```
-3. Processed data files will be available in the `data/` folder.
-4. Visualizations will be saved in the `visuals/` folder.
-5. The final report and outputs will be in the `output/` folder.
+
+   ```
+4. Processed data files will be available in the `data/` folder.
+5. Visualizations will be saved in the `visuals/` folder.
+6. The final report and outputs will be in the `output/` folder.
 
 ---
 
