@@ -31,9 +31,9 @@ The objective of this project is to analyze the distribution and accessibility o
 - Rural Health Statistics: Districtwise Health Care Infrastructure (https://ndap.niti.gov.in/dataset/7035)
 
 ---
-```
 Execution Steps
 1. Clone this repository:
+```
    bash
    git clone https://github.com/[Your_Username]/Healthcare_Facility_Analysis.git
    ```
