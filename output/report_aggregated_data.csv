@@ -1,0 +1,707 @@
+srcDistrictName,Functional Sub Centres,Functional Primary Health Centres,Functional Community Health Centres
+0,18.0,2.0,1.0
+Adilabad,124.0,16.0,3.0
+Agar Malwa,293.0,55.0,21.0
+Agra,333.0,45.0,13.0
+Ahmedabad,219.0,46.0,10.0
+Ahmednagar,514.0,143.0,34.0
+Aizawl East District,287.0,16.0,12.0
+Aizawl West District,210.0,18.0,4.0
+Ajmer,370.0,72.0,22.0
+Akola,288.0,59.0,9.0
+Alappuzha,245.0,3.0,10.0
+Aligarh,539.0,58.0,19.0
+Alipurduar,180.0,4.0,6.0
+Alirajpur,245.0,16.0,13.0
+Allahabad (Prayagpur),272.0,15.0,10.0
+Almora,206.0,25.0,8.0
+Alwar,676.0,123.0,37.0
+Ambala,94.0,0.0,4.0
+Ambedkar Nagar,148.0,17.0,7.0
+Amravati,378.0,69.0,8.0
+Amreli,339.0,31.0,10.0
+Amritsar,140.0,22.0,6.0
+Anand,230.0,28.0,8.0
+Ananthapur,430.0,72.0,8.0
+Anantnag,149.0,19.0,5.0
+Anjaw,6.0,3.0,3.0
+Anugul,166.0,16.0,12.0
+Anuppur,163.0,20.0,6.0
+Araria,254.0,55.0,6.0
+Ariyalur,171.0,0.0,2.0
+Arvalli,272.0,40.0,13.0
+Arwal,48.0,7.0,1.0
+Ashok Nagar,317.0,58.0,10.0
+Auraiya,477.0,56.0,19.0
+Aurangabad,557.0,100.0,18.0
+Azamgarh,200.0,6.0,7.0
+Bagalkote,356.0,110.0,7.0
+Bageshwar,84.0,13.0,3.0
+Bagpat,287.0,37.0,10.0
+Bahraich,367.0,71.0,9.0
+Baksa,559.8792986,62.066252129999995,22.252013203
+Balaghat,274.0,34.0,8.0
+Balasore,237.0,13.0,17.0
+Ballia,194.0,7.0,9.0
+Balod,119.0,25.0,3.0
+Balodabazar,181.0,24.0,7.0
+Balrampur,392.0,71.0,10.0
+Banaskantha,286.0,27.0,12.0
+Banda,338.0,25.0,17.0
+Bandipora,79.0,13.0,3.0
+Bangalore (R),336.0,62.0,6.0
+Bangalore (U),572.0,147.0,4.0
+Banka,288.0,27.0,2.0
+Bankura,87.0,8.0,5.0
+Banswara,450.0,56.0,21.0
+Barabanki,397.0,52.0,6.0
+Baramulla,212.0,32.0,6.0
+Baran,259.0,30.0,14.0
+Bareilly,267.0,32.0,11.0
+Bargarh,235.0,7.0,11.0
+Barmer,720.0,89.0,23.0
+Barnala,57.0,3.0,4.0
+Barpeta,120.0,19.0,6.0
+Barwani,180.0,40.0,7.0
+Bastar,111.0,27.0,3.0
+Basti,331.0,48.0,7.0
+Bathinda,111.0,6.0,9.0
+Beed,394.0,44.0,15.0
+Begusarai,354.0,49.0,4.0
+Belgaum,344.0,83.0,3.0
+Bellary,203.0,60.0,2.0
+Bemetara,178.0,24.0,6.0
+Betul,237.0,24.0,7.0
+Bhadradri Kothagudem,0.0,0.0,0.0
+Bhadrak,166.0,2.0,11.0
+Bhagalpur,298.0,31.0,4.0
+Bhandara,203.0,21.0,7.0
+Bharatpur,394.0,64.0,17.0
+Bharuch,209.0,19.0,8.0
+Bhavnagar,204.0,21.0,10.0
+Bhilwara,533.0,77.0,25.0
+Bhind,136.0,23.0,7.0
+Bhiwani,139.0,26.0,6.0
+Bhojpur,160.0,29.0,1.0
+Bhopal,103.0,18.0,3.0
+Bidar,249.0,63.0,5.0
+Bijapur,279.0,53.0,10.0
+Bijnor,291.0,40.0,8.0
+Bikaner,414.0,45.0,16.0
+Bilaspur,616.0,91.0,20.0
+Birbhum,134.0,20.0,7.0
+Bishnupur,51.0,12.0,2.0
+Bokaro,52.0,5.0,4.0
+Bolangir,90.0,5.0,5.0
+Bongaigaon,559.05283966,60.03064432,15.845826234
+Botad,215.0,39.0,6.0
+Boudh,89.0,1.0,5.0
+Budaun,344.0,41.0,10.0
+Budgam,152.0,49.0,9.0
+Bulandshahar,232.0,21.0,4.0
+Buldhana,431.0,93.0,16.0
+Bundi,207.0,27.0,12.0
+Burhanpur,155.0,14.0,6.0
+Buxar,398.0,79.0,8.0
+C S M Nagar (Amethi),214.0,27.0,9.0
+Cachar,249.3374573,54.21049278,12.82273714
+Central,14.0,69.0,0.0
+Ch-Dadri,75.0,12.0,3.0
+Chamarajanagar,114.0,0.0,3.0
+Chamba,177.0,45.0,5.0
+Chamoli,110.0,16.0,6.0
+Champawat,68.0,8.0,1.0
+Champhai District,298.52004206000004,38.038863752,7.821714887
+Chandauli,111.0,14.0,6.0
+Chandel,52.0,11.0,3.0
+Chandigarh,4.0,36.0,2.0
+Chandrapur,190.0,113.0,15.0
+Changlang,10.0,1.0,1.0
+Chatra,164.0,11.0,9.0
+Chennai,395.0,59.0,18.0
+Chhatarpur,187.0,19.0,7.0
+Chhindwada,215.0,24.0,5.0
+Chhota Udepur,0.0,120.0,0.0
+Chikkaballapura,204.0,5.0,8.0
+Chikmagalur,105.0,0.0,2.0
+Chirang,597.3161998,78.48565479999999,22.149432247
+Chitradurga,14.0,4.0,3.0
+Chitrakoot,320.0,66.0,16.0
+Chittorgarh,381.0,54.0,21.0
+Churchandpur,34.0,8.0,1.0
+Churu,425.0,80.0,16.0
+Coimbatore,414.7296706,15.80028523,13.85021392
+Cuddalore,209.0,3.0,11.0
+Cuttack,386.0,31.0,21.0
+Dahod,165.0,21.0,4.0
+Dakshin Dinajpur,108.0,10.0,6.0
+Dakshina Kannada,366.0,49.0,16.0
+Daman,0.0,0.0,0.0
+Damoh,197.0,28.0,6.0
+Dang,182.0,14.0,6.0
+Dantewada,179.0,25.0,6.0
+Darbhanga,260.0,52.0,9.0
+Darjiling,234.0,0.0,9.0
+Darrang,875.0957076,58.132592020000004,29.941506984
+Datia,316.0,37.0,9.0
+Dausa,313.0,48.0,15.0
+Davanagere,410.0,75.0,23.0
+Debagarh,228.0,36.0,8.0
+Dehradun,157.0,21.0,7.0
+Deoghar,222.0,18.0,15.0
+Deoria,186.0,24.0,4.0
+Devbhumi Dwarka,592.0,110.0,23.0
+Dewas,266.0,32.0,11.0
+Dhalai,147.0,12.0,3.0
+Dhamtari,113.0,17.0,4.0
+Dhanbad,275.0,33.0,17.0
+Dhar,309.0,45.0,9.0
+Dharmapuri,103.0,8.0,6.0
+Dharwad,308.0,33.0,13.0
+Dhemaji,190.56209957,48.988112255,5.298463978999999
+Dhenkanal,214.5880509,46.39741641,6.628202344
+Dholpur,227.0,36.0,7.0
+Dhubri,698.80261319,86.44847714,29.524306701
+Dhule,139.0,4.0,8.0
+Dibang Valley,19.46392172,4.23128733,2.538772398
+Dibrugarh,104.0,30.0,5.0
+Dima Hasao,674.3416125,35.55024401,27.433743393
+Dimapur,50.0,15.0,2.0
+Dindigul,315.7287719,11.9897002,12.98884188
+Dindori,163.0,18.0,8.0
+Diu,0.0,0.0,0.0
+Doda,151.0,26.0,3.0
+Dumka,202.0,19.0,15.0
+Dungarpur,349.0,53.0,15.0
+Durg,44.4119491,9.602583589,1.371797656
+E-Champaran,234.0,103.0,2.0
+East,34.0,39.0,0.0
+East Garo Hills,46.0,15.0,2.0
+East Godavari,190.0,39.0,2.0
+East Jainta Hills,132.735614,27.88084536,6.732388252
+East Kameng,10.239173346,5.704715228,3.654928896
+East Khasi Hills,52.0,9.0,1.0
+East Siang,16.0,3.0,2.0
+Ernakulam,454.0,49.0,13.0
+Erode,447.15411059999997,15.94670596,15.148523361999999
+Etah,165.0,14.0,8.0
+Etawah,255.0,33.0,5.0
+F.G.Sahib,61.0,0.0,5.0
+Faizabad (Ayodhya),165.0,13.0,8.0
+Faridabad,93.0,2.0,8.0
+Faridkot,54.0,3.0,4.0
+Farrukhabad,302.0,35.0,7.0
+Fatehabad,131.0,22.0,4.0
+Fatehpur,216.0,43.0,9.0
+Fazilka,84.0,6.0,6.0
+Ferozpur,107.0,1.0,4.0
+Firozabad,110.0,12.0,5.0
+Gadag,414.0,77.0,9.0
+Gadchiroli,60.0,1.0,6.0
+Gajapati,56.0,8.0,4.0
+Ganderbal,63.0,19.0,1.0
+Gandhinagar,151.0,11.0,8.0
+Ganganagar,414.0,52.0,17.0
+Ganjam,139.0,13.0,4.0
+Garhwa,64.0,0.0,5.0
+Gariyaband,160.0,5.0,5.0
+Gautam Buddha Nagar,130.0,21.0,4.0
+Gaya,460.0,53.0,8.0
+Ghaziabad,418.0,43.0,6.0
+Ghazipur,320.0,39.0,16.0
+Gir Somnath,140.0,21.0,6.0
+Giridih,325.0,14.0,22.0
+Goalpara,200.3962259,38.87284649,12.06398684
+Godda,38.0,1.0,4.0
+Golaghat,102.3861158,32.80331865,10.93443955
+Gomati District,21.0,6.0,1.0
+Gonda,513.0,57.0,9.0
+Gondia,435.0,64.0,14.0
+Gopalganj,179.0,28.0,6.0
+Gorakhpur,214.0,34.0,4.0
+Gulbarga,247.0,35.0,6.0
+Gumla,165.0,25.0,10.0
+Guna,233.0,20.0,7.0
+Guntur,337.0,93.0,16.0
+Gurdaspur,205.0,9.0,13.0
+Gurugram,73.0,3.0,3.0
+Gwalior,117.0,17.0,4.0
+Hailakandi,162.6583875,28.44975599,5.566256607
+Hamirpur,571.0,77.0,9.0
+Hanumangarh,358.0,48.0,16.0
+Haora,136.0,7.0,8.0
+Hapur,242.0,26.0,2.0
+Harda,107.0,7.0,3.0
+Hardoi,263.0,33.0,7.0
+Haridwar,160.0,26.0,7.0
+Hassan,421.0,50.0,17.0
+Hathras,291.0,27.0,12.0
+Haveri,333.0,47.0,20.0
+Hazaribagh,136.0,3.0,8.0
+Hingoli,264.0,60.0,10.0
+Hisar,189.0,7.0,10.0
+Hoshangabad,263.0,15.0,9.0
+Hoshiarpur,223.0,6.0,12.0
+Hugli,231.0,0.0,10.0
+Hyderabad,6.0,0.0,1.0
+Idukki,104.5122014,13.38792663,4.75055461
+Imphal East,13.0,4.0,1.0
+Imphal West,44.0,8.0,4.0
+Indore,196.0,28.0,6.0
+J P Nagar (Amroha),191.0,14.0,11.0
+Jabalpur,152.5253978,16.94726643,5.157863695
+Jagatsinghapur,196.0,24.0,8.0
+Jagtial,0.0,0.0,0.0
+Jaipur I,604.0,176.0,32.0
+Jaipur II,156.0,20.0,8.0
+Jaisalmer,404.0,62.0,10.0
+Jajapur,261.0,44.0,11.0
+Jalandhar,173.0,2.0,12.0
+Jalaun,503.0,73.0,16.0
+Jalgaon,557.0,16.0,15.0
+Jalna,616.0,7.0,15.0
+Jalore,315.0,35.0,14.0
+Jalpaiguri,127.0,6.0,4.0
+Jammu,176.0,37.0,8.0
+Jamnagar,90.0,15.0,5.0
+Jamtara,454.0,65.0,28.0
+Jamui,102.0,33.0,2.0
+Jangaon,0.0,0.0,0.0
+Janjgir-Champa,169.0,14.0,8.0
+Jashpur,132.0,6.0,2.0
+Jaunpur,311.0,25.0,8.0
+Jayashankar Bhupalapally,0.0,0.0,0.0
+Jehanabad,276.0,27.0,4.0
+Jhabua,208.0,19.0,5.0
+Jhajjar,131.0,8.0,6.0
+Jhalawar,585.0,104.0,26.0
+Jhansi,175.0,15.0,8.0
+Jhargram,332.0,9.0,13.0
+Jharsuguda,243.0,32.0,8.0
+Jhunjhunu,651.0,95.0,25.0
+Jind,160.0,24.0,7.0
+Jiribam,12.0,4.0,1.0
+Jodhpur,276.0,36.0,11.0
+Jogulamba Gadwal,0.0,0.0,0.0
+Jorhat,615.0,79.0,26.0
+Junagadh,529.0,93.0,24.0
+Kadapa,185.0,45.0,0.0
+Kaimur,174.0,16.0,4.0
+Kaithal,144.0,20.0,6.0
+Kakching,17.0,3.0,1.0
+Kalahandi,91.0,11.0,6.0
+Kalimpong,145.0,7.0,6.0
+Kamareddy,0.0,0.0,0.0
+Kamjong,26.0,5.0,1.0
+Kamle,8.0,3.0,2.0
+Kamrup M,835.1542494,56.096009980000005,30.262025107
+Kamrup R,738.90867332,110.14105488,25.047418868
+Kancheepuram,617.1145994999999,53.2240648,18.0952457
+Kandhamal,239.0,32.0,8.0
+Kangpokpi,18.0,5.0,1.0
+Kangra,441.0,87.0,17.0
+Kanker,292.0,34.0,7.0
+Kannauj,240.0,11.0,6.0
+Kannur,257.0,28.0,15.0
+Kanpur Dehat,369.0,23.0,10.0
+Kanpur Nagar,175.0,24.0,5.0
+Kanyakumari,195.7583535,32.28105213,8.983777525
+Kapurthala,81.0,0.0,5.0
+Karaikal,129.0,0.0,3.0
+Karauli,185.0,45.0,13.0
+Karbi Anglong,325.50256621,44.555378033,12.899470979
+Kargil,0.0,0.0,0.0
+Karimganj,110.0,24.000000001,6.0
+Karimnagar,0.0,0.0,1.0
+Karnal,137.0,6.0,6.0
+Karur,137.4877986,17.61207337,6.24944539
+Kasargode,74.0,1.0,4.0
+Kashi Ram Nagar,213.0,19.0,13.0
+Kathua,188.0,38.0,5.0
+Katihar,323.0,49.0,1.0
+Katni,124.0,13.0,3.0
+Kaushambi,367.0,46.0,14.0
+Kawardha,330.0,21.0,8.0
+Kendrapara,219.0,23.0,7.0
+Kendujhar,182.0,26.0,6.0
+Khagaria,186.0,20.0,1.0
+Khammam,47.0,8.0,2.0
+Khandwa,283.0,26.0,5.0
+Khargone,200.0,13.0,7.0
+Kheda,291.0,20.0,11.0
+Khordha,202.0,25.0,5.0
+Khowai District,46.0,12.0,3.0
+Khunti,574.0,33.0,28.0
+Kinnaur,34.0,24.0,4.0
+Kiphire,35.0,8.0,2.0
+Kishanganj,156.0,8.0,1.0
+Kishtwar,86.0,16.0,1.0
+Koch Bihar,240.0,20.0,12.0
+Kodagu,401.0,61.0,16.0
+Kodarma,188.0,13.0,11.0
+Kohima,95.0,38.0,6.0
+Kokrajhar,36.69120045,4.985217452,1.196452188
+Kolar,578.0,79.0,21.0
+Kolasib District,33.0,6.0,1.0
+Kolhapur,420.0,6.0,12.0
+Kolkata,62.0,6.0,6.0
+Kollam,218.0,3.0,13.0
+Komaram Bheem Asifabad,0.0,0.0,0.0
+Kondagaon,191.0,21.0,7.0
+Koppal,504.0,65.0,19.0
+Koraput,335.0,50.0,9.0
+Korba,323.0,31.0,9.0
+Korea,210.0,14.0,7.0
+Kota,795.0,117.0,31.0
+Kottayam,168.0,4.0,11.0
+Kozhikkode,486.0,16.0,20.0
+Kra daadi,0.0,0.0,2.0
+Krishna,486.0,136.0,15.0
+Krishnagiri,17.0,0.0,1.0
+Kulgam,128.0,26.0,3.0
+Kullu,103.0,28.0,5.0
+Kupwara,259.0,17.0,7.0
+Kurnool,311.0,69.0,5.0
+Kurukshetra,112.0,4.0,5.0
+Kurung Kumey,16.0,4.0,2.0
+Kushinagar,175.0,21.0,4.0
+Kutchh,179.0,37.0,5.0
+L & S,36.0,17.0,3.0
+Lakhimpur,98.60377411,19.12715351,5.936013157
+Lakhimpur Kheri,352.0,37.0,16.0
+Lakhisarai,98.0,11.0,1.0
+Lakshadweep,172.0,7.0,8.0
+Lalitpur,291.0,18.0,17.0
+Latehar,258.0,15.0,12.0
+Latur,774.0,12.0,26.0
+Lawngtlai District,24.0,4.0,0.0
+Leh,0.0,0.0,0.0
+Lohardaga,62.0,4.0,6.0
+Lohit,14.0,3.0,4.0
+Longding,9.0,7.0,1.0
+Longleng,21.0,2.0,1.0
+Lower Dibang valley,23.0,8.0,2.0
+Lower Siang,3.536078282,0.76871267,0.461227602
+Lower Subansiri,8.0,8.0,4.0
+Lucknow,194.0,10.0,7.0
+Ludhiana,209.0,5.0,11.0
+Lunglei District,147.68578484,10.941812008,2.988362402
+Madhepura,272.0,12.0,4.0
+Madhubani,376.0,75.0,2.0
+Madurai,4.0,1.0,1.0
+Mahabubabad,0.0,0.0,0.0
+Mahabubnagar,0.0,0.0,0.0
+Maharajganj,146.0,2.0,4.0
+Mahasamund,66.0,10.0,2.0
+Mahe,154.0,0.0,4.0
+Mahisagar,316.0,77.0,10.0
+Mahoba,206.0,37.0,10.0
+Mainpuri,205.0,20.0,7.0
+Malappuram,271.0692087,14.05479979,11.86718759
+Malda,94.0,4.0,6.0
+Malkangiri,245.0,40.0,11.0
+Mamit District,12.47995794,1.961136248,0.178285113
+Mancherial,0.0,0.0,0.0
+Mandi,325.0,85.0,13.0
+Mandla,206.0,13.0,7.0
+Mandsaur,185.0,16.0,6.0
+Mandya,261.0,35.0,12.0
+Mansa,76.0,3.0,4.0
+Marigaon,742.0,149.0,35.0
+Mathura,225.0,21.0,6.0
+Maunathbhanjan,252.0,14.0,12.0
+Mayurbhanj,276.0,36.0,10.0
+Medak,0.0,0.0,0.0
+Medchal Malkajgiri,0.0,0.0,0.0
+Meerut,245.0,22.0,16.0
+Mehsana,279.0,64.0,12.0
+Mirzapur,249.0,31.0,3.0
+Moga,89.0,10.0,6.0
+Mohali,51.0,1.0,5.0
+Mokokchung,27.25192781,9.323027935,1.43431199
+Mon,37.0,12.0,2.0
+Moradabad,260.0,28.0,4.0
+Morbi,208.0,49.0,12.0
+Morena,77.0,6.0,3.0
+Mukatsar,75.0,2.0,5.0
+Mulugu,0.0,0.0,0.0
+Mumbai,626.0,15.0,17.0
+Mungeli,79.0,7.0,4.0
+Munger,152.0,12.0,9.0
+Murshidabad,169.0,22.0,7.0
+Muzaffarnagar,199.0,23.0,6.0
+Muzaffarpur,494.0,78.0,3.0
+Mysore,483.0,70.0,24.0
+Nabarangapur,193.0,24.0,7.0
+Nadia,274.0,18.0,13.0
+Nagaon,1068.0,83.0,33.0
+Nagapattinam,225.0,10.0,4.0
+Nagarkurnool,0.0,0.0,0.0
+Nagaur,476.0,80.0,21.0
+Nagpur,528.0,15.0,12.0
+Nainital,128.0,12.0,8.0
+Nalanda,367.0,58.0,2.0
+Nalbari,1192.0,100.0,44.0
+Nalgonda,0.0,0.0,0.0
+Namakkal,4.0,0.0,0.0
+Namsai,28.0,8.0,3.0
+Nanded,518.0,3.0,18.0
+Nandurbar,449.0,7.0,14.0
+Narayanpet,0.0,0.0,0.0
+Narayanpur,209.0,11.0,7.0
+Narmada,296.0,56.0,10.0
+Narnaul,128.0,8.0,7.0
+Narsinghpur,54.47460217,6.052733574,1.842136305
+Nashik,499.0,6.0,14.0
+Navsari,192.0,6.0,7.0
+Nawada,334.0,28.0,2.0
+Nawanshahar,92.0,4.0,3.0
+Nayagarh,98.0,5.0,5.0
+Neemuch,193.0,83.0,16.0
+Nellore,196.0,29.0,7.0
+New Delhi,6.0,73.0,0.0
+Nicobar,87.0,0.0,2.0
+Nirmal,0.0,0.0,0.0
+Nizamabad,0.0,0.0,0.0
+North,47.0,46.0,1.0
+North & Middle Andman,138.0,16.0,4.0
+North 24-Parganas,159.0,38.0,15.0
+North District,70.0,6.0,1.0
+North East,12.0,28.0,0.0
+North Garo Hills,263.5603563,21.01798832,6.323905375
+North Goa,118.4452933,8.502261153,3.811358448
+North West,29.0,65.0,0.0
+Nuapada,48.0,5.0,1.0
+Nuh,50.0,6.0,3.0
+Osmanabad,422.0,7.0,15.0
+Pakaur,234.0,20.0,18.0
+Palakkad,338.9307913,49.94520021,14.13281241
+Palamu,170.0,8.0,14.0
+Palghar,342.0,82.0,11.0
+Pali,257.0,33.0,12.0
+Palwal,81.0,6.0,7.0
+Panchkula,39.0,0.0,3.0
+Panchmahal,280.0,57.0,13.0
+Panipat,81.0,7.0,6.0
+Panna,206.0,6.0,12.0
+Papum Pare,0.0,0.0,2.0
+Parbhani,496.0,14.0,12.0
+Paschim Bardhaman,100.0,7.0,5.0
+Paschim Medinipur,116.0,9.0,5.0
+Pashchimi Singhbhum,158.0,5.0,6.0
+Patan,319.0,24.0,10.0
+Pathanamthitta,159.8078471,3.213703797,3.865413491
+Pathankot,54.0,0.0,4.0
+Patiala,177.0,1.0,10.0
+Patna,529.0,40.0,11.0
+Pauri Garhwal,228.0,26.0,5.0
+Peddapalli,0.0,0.0,0.0
+Perambalur,29.0,10.0,1.0
+Peren,10.74807219,3.676972065,0.56568801
+Phek,47.0,13.0,2.0
+Pherjawl,88.94065284,17.03118884,1.892354316
+Pilibhit,355.0,36.0,12.0
+Pithoragarh,156.0,18.0,4.0
+Poonch,147.0,32.0,3.0
+Porbandar,232.0,45.0,6.0
+Prakasam,266.0,69.0,2.0
+Pratapgarh,710.0,78.0,33.0
+Puducherry,108.0,0.0,2.0
+Pudukkottai,33.0,4.0,1.0
+Pulwama,92.0,33.0,3.0
+Pune,373.0,4.0,11.0
+Purba Bardhaman,171.0,1.0,9.0
+Purba Medinipur,67.0,9.0,4.0
+Purbi Singhbhum,176.0,21.0,7.0
+Puri,76.0,9.0,3.0
+Purnia,306.0,42.0,6.0
+Puruliya,130.0,10.0,6.0
+Rae Bareli,211.0,15.0,5.0
+Raichur,472.0,65.0,24.0
+Raigad,568.0,9.0,14.0
+Raigarh,98.0,15.0,4.0
+Raipur,235.0,27.0,10.0
+Raisen,251.0,33.0,14.0
+Rajanna Sircilla,0.0,0.0,0.0
+Rajgarh,715.0,81.0,27.0
+Rajkot,289.0,1.0,9.0
+Rajnandgaon,305.0,64.0,11.0
+Rajouri,217.0,37.0,7.0
+Rajsamand,266.0,33.0,14.0
+Ramanagar,301.0144094,25.00054719,14.00059279
+Ramanathapuram,34.0,8.0,2.0
+Ramban,93.0,19.0,3.0
+Ramgarh,287.0,12.0,10.0
+Rampur,363.0,43.0,12.0
+Ranchi,224.0,15.0,8.0
+Rangareddy,0.0,0.0,0.0
+Ratlam,221.0,26.0,10.0
+Ratnagiri,233.0,49.0,8.0
+Rayagada,153.0,16.0,6.0
+Reasi,111.0,22.0,2.0
+Rewa,278.0,42.0,13.0
+Rewari,112.0,16.0,5.0
+Ri Bhoi,19.0,4.0,2.0
+Rohtak,116.0,20.0,7.0
+Rohtas,251.0,44.0,1.0
+Ropar,67.0,1.0,5.0
+Rudraprayag,204.0,16.0,2.0
+Sabarkantha,195.0,32.0,10.0
+Sagar,59.0,0.0,3.0
+Saharanpur,185.0,22.0,4.0
+Saharsa,169.0,32.0,8.0
+Sahibganj,350.0,30.0,17.0
+Saiha District,13.51981292,2.54618613,0.394441134
+Salem,126.0,0.0,2.0
+Samastipur,355.0,65.0,9.0
+Samba,80.0,12.0,3.0
+Sambalpur,208.0,29.0,6.0
+Sambhal,133.0,6.0,7.0
+Sangareddy,0.0,0.0,0.0
+Sangli,279.0,96.0,5.0
+Sangrur,182.99999997,7.0,8.0
+Sant Kabir Nagar,161.0,8.0,5.0
+Sant Ravidas Nagar,296.0,37.0,16.0
+Saraikela,196.0,20.0,16.0
+Saran,412.0,58.0,1.0
+Satara,199.0,48.0,2.0
+Satna,553.0,37.0,21.0
+Sawai Madhopur,631.0,96.0,30.0
+Sehore,155.0,13.0,9.0
+Senapati,23.0,6.0,1.0
+Seoni,184.0,16.0,9.0
+Sepahijala District,32.0,8.0,3.0
+Serchhip District,120.25796455,12.030751438,1.552103679
+Shahdara,25.0,33.0,0.0
+Shahdol,226.0,32.0,10.0
+Shahjahanpur,92.0,4.0,6.0
+Shajapur,418.0,32.0,17.0
+Shamli,176.0,7.0,4.0
+Sheikhpura,85.0,19.0,0.0
+Sheohar,91.0,5.0,5.0
+Sheopur,276.0,25.0,15.0
+Shimla,149.0,44.0,6.0
+Shimoga,182.0,20.0,9.0
+Shivpuri,261.0,27.0,12.0
+Shopian,60.0,10.0,2.0
+Shrawasti,261.0,55.0,8.0
+Siang,20.0,4.0,2.0
+Sibsagar,650.0,16.0,26.0
+Siddharth Nagar,447.0,65.0,18.0
+Siddipet,0.0,0.0,0.0
+Sidhi,150.0,13.0,4.0
+Sikar,221.0,30.0,9.0
+Simdega,304.0,6.0,16.0
+Sindhudurg,620.0,148.0,16.0
+Singroli,319.0,47.0,13.0
+Sirmaur,253.0,121.0,17.0
+Sirohi,290.0,58.0,9.0
+Sirsa,139.0,8.0,8.0
+Sitamarhi,204.0,49.0,9.0
+Sitapur,173.0,26.0,7.0
+Sivaganga,241.0,0.0,5.0
+Siwan,375.0,55.0,2.0
+Solan,175.0,41.0,6.0
+Solapur,293.0,73.0,11.0
+Sonapur,184.0,15.0,6.0
+Sonbhadra,238.0,19.0,13.0
+Sonipat,152.0,10.0,8.0
+Sonitpur,1238.0,112.0,40.0
+South,55.0,41.0,0.0
+South 24-Parganas,101.0,2.0,8.0
+South Andman,89.0,0.0,2.0
+South District,31.0,7.0,1.0
+South East,12.0,49.0,0.0
+South Garo Hills,27.0,9.0,1.0
+South Goa,278.0,25.0,9.0
+South West,36.0,42.0,0.0
+South West Garo Hills,138.3394912,18.79612653,4.511070366
+South West Khasi Hills,77.88999787,14.97884574,3.994358865
+Srikakulam,176.0,49.0,9.0
+Srinagar,59.0,40.0,1.0
+Sukma,475.0,49.0,15.0
+Sultanpur,337.0,39.0,7.0
+Sundargarh,181.0,27.0,6.0
+Supaul,178.0,23.0,2.0
+Surajpur,157.0,16.0,6.0
+Surat,13.0,3.0,3.0
+Surendranagar,426.0,88.0,18.0
+Surguja,176.0,13.0,6.0
+Suryapet,0.0,0.0,0.0
+Tamenglong,18.0,6.0,1.0
+Tapi,219.0,30.0,10.0
+Tarn Taran,142.0,3.0,11.0
+Tawang,3.0,4.0,1.0
+Tehri Garhwal,68.0,29.0,5.0
+Tengnoupal,34.59578485,6.450061582,1.17273847
+Thane,275.0,58.0,8.0
+Thanjavur,216.0,0.0,13.0
+The Nilgiris,575.3577316000001,36.89379319,14.09134597
+Theni,386.8629605,16.7666591,13.096966947
+Thiruppur,521.1766843,47.03414554,16.882449932999997
+Thiruvallur,516.0,53.0,17.0
+Thiruvanathapuram,171.7099015,2.160143768,7.97566281
+Thiruvarur,102.0,0.0,2.0
+Thoothukudi,299.0,0.0,7.0
+Thoubal,18.0,6.0,1.0
+Thrissur,196.135782,23.40975463,8.857744994
+Tikamgarh,616.0,71.0,24.0
+Tinsukia,230.0,28.0,14.0
+Tirap,10.0,1.0,4.0
+Tiruchirappalli,143.0,0.0,3.0
+Tirunelveli,195.0,0.0,4.0
+Tiruvannamalai,84.0,0.0,0.0
+Tonk,625.0,95.0,28.0
+Tuensang,62.0,15.0,2.0
+Tumkur,877.264814,161.1412783,22.1823732
+U S NAGAR,153.0,23.0,7.0
+Udaipur,202.0,28.0,8.0
+Udalguri,176.4396437,164.98201168,10.676094625000001
+Udhampur,136.0,31.0,2.0
+Udupi,450.4489717,36.79604881,12.14515184
+Ujjain,282.0,31.0,13.0
+Ukhrul,9.0,2.0,1.0
+Umaria,298.0,25.0,15.0
+Una,134.0,24.0,9.0
+Unakoti District,64.0,9.0,5.0
+Unnav,298.0,20.0,12.0
+Upper Siang,26.40182708,12.37585644,4.125285481
+Upper Subansiri,25.054053168,6.745173239,5.654439965
+Uttar Dinajpur,177.0,17.0,11.0
+Uttara Kannada,336.0,36.0,13.0
+Uttarkashi,82.0,10.0,4.0
+Vadodara,218.0,43.0,9.0
+Vaishali,65.0,26.0,0.0
+Valsad,413.0,91.0,18.0
+Varanasi,169.0,24.0,7.0
+Vellore,460.0,0.0,11.0
+Vidisha,79.0,7.0,4.0
+Vikarabad,0.0,0.0,0.0
+Villupuram,347.0,0.0,4.0
+Virudhunagar,83.0,0.0,2.0
+Visakhapatnam,410.0,115.0,10.0
+Vizianagaram,510.0,147.0,10.0
+W- Champaran,171.0,33.0,4.0
+Wanaparthy,0.0,0.0,0.0
+Warangal Rural,0.0,0.0,0.0
+Warangal Urban,0.0,0.0,0.0
+Wardha,310.0,68.0,9.0
+Washim,256.0,64.0,3.0
+Wayanad,191.0,28.0,10.0
+West,69.0,80.0,5.0
+West Garo Hills,231.291512,33.07100933,11.011212
+West Godavari,213.0,52.0,6.0
+West Jaintia Hills,35.0,6.0,2.0
+West Kameng,7.304946406,4.174255089,1.565345658
+West Siang,96.0,28.999999998,10.0
+West Tripura,72.0,25.0,7.0
+West khasi Hills,76.05436395,14.32996859,3.576877333
+Wokha,19.0,2.0,1.0
+Yadadri Bhongir,0.0,0.0,0.0
+Yadgir,355.2900985,41.83985623,14.02433719
+Yamunanagar,96.0,3.0,6.0
+Yanam,103.0,0.0,2.0
+Yavatmal,368.0,90.0,5.0
+Zunheboto,8.0,3.0,0.0
+chittoor,324.0,101.0,6.0
+srcDistrictName,0.0,0.0,0.0

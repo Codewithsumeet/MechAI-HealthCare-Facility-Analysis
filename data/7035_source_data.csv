@@ -1,0 +1,771 @@
+srcStateName,srcDistrictName,Functional Sub Centres,Functional Primary Health Centres,Functional Community Health Centres,Functional Health and Wellness Centres-Sub Centres,Functional Health and Wellness Centres-Primary Health Centres,Functional Sub Divisional Hospitals,Functional District Hospitals,srcYear,YearCode,Year,Country,StateCode,StateName,DistrictCode
+Andhra Pradesh,Kurnool,518,3,18,24,110,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,1
+Arunachal Pradesh,Tawang,0,0,2,12,6,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,2
+Arunachal Pradesh,West Kameng,22,5,5,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,3
+Arunachal Pradesh,Upper Siang,10,1,4,3,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,4
+Arunachal Pradesh,Lower Subansiri,23,8,2,,,,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,5
+Arunachal Pradesh,Kra daadi,9,7,1,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,7
+Arunachal Pradesh,Upper Subansiri,32,15,5,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,8
+Arunachal Pradesh,West Siang,14,8,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,10
+Arunachal Pradesh,Lower Dibang valley,14,3,4,,,,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,11
+Arunachal Pradesh,Anjaw,9,7,5,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,12
+Arunachal Pradesh,Changlang,35,7,5,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,13
+Arunachal Pradesh,Tirap,3,4,1,2,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,14
+Arunachal Pradesh,Kurung Kumey,16,3,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,620
+Arunachal Pradesh,Namsai,0,0,2,15,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,621
+Arunachal Pradesh,Siang,28,8,3,,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,622
+Arunachal Pradesh,Lohit,16,4,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,623
+Arunachal Pradesh,Longding,6,3,3,,,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,624
+Arunachal Pradesh,East Siang,1,1,2,15,9,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,625
+Arunachal Pradesh,Papum Pare,8,8,4,26,12,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,626
+Arunachal Pradesh,East Kameng,23,5,3,5,6,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,1,JAMMU AND KASHMIR,627
+Arunachal Pradesh,Kamle,20,4,2,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,15
+Arunachal Pradesh,Dibang Valley,10,1,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,16
+Arunachal Pradesh,Lower Siang,8,3,2,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,17
+Assam,Baksa,136,25,6,21,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,18
+Assam,Barpeta,231,33,11,33,15,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,19
+Assam,Bongaigaon,85,16,4,23,13,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,20
+Assam,Cachar,255,20,6,15,12,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,21
+Assam,Chirang,78,19,3,9,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,22
+Assam,Darrang,138,29,7,21,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,23
+Assam,Dhemaji,78,15,4,20,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,24
+Assam,Dhubri,184,25,6,47,19,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,25
+Assam,Dibrugarh,214,21,9,20,9,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,2,HIMACHAL PRADESH,26
+Assam,Dima Hasao,62,8,2,10,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,27
+Assam,Goalpara,120,19,6,35,19,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,28
+Assam,Golaghat,133,35,4,11,6,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,29
+Assam,Hailakandi,82,11,3,25,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,30
+Assam,Jorhat,110,24,6,35,18,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,31
+Assam,Kamrup M,48,11,3,3,34,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,32
+Assam,Kamrup R,253,55,13,26,10,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,33
+Assam,Karbi Anglong,124,26,8,30,15,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,34
+Assam,Karimganj,185,22,7,37,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,35
+Assam,Kokrajhar,135,38,2,27,8,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,36
+Assam,Lakhimpur,137,17,8,19,9,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,37
+Assam,Marigaon,104,30,5,18,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,38
+Assam,Nagaon,299,58,18,52,20,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,39
+Assam,Nalbari,103,33,11,18,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,40
+Assam,Sibsagar,202,38,4,18,7,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,41
+Assam,Sonitpur,263,46,9,18,10,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,42
+Assam,Tinsukia,146,15,8,20,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,43
+Assam,Udalguri,129,15,6,17,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,605
+Bihar,Araria,242,26,2,0,12,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,608
+Bihar,Arwal,65,26,0,0,6,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,609
+Bihar,Aurangabad,254,55,6,0,18,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,651
+Bihar,Banka,237,30,4,2,12,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,662
+Bihar,Begusarai,288,27,2,4,17,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,3,PUNJAB,737
+Bihar,Bhagalpur,354,49,4,8,29,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,4,CHANDIGARH,44
+Bihar,Bhojpur,298,31,4,0,14,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,45
+Bihar,Buxar,160,29,1,0,11,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,46
+Bihar,Darbhanga,398,79,8,0,24,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,47
+Bihar,E-Champaran,529,40,11,3,13,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,48
+Bihar,Gaya,260,52,9,1,20,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,49
+Bihar,Gopalganj,460,53,8,9,7,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,50
+Bihar,Jamui,179,28,6,6,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,51
+Bihar,Jehanabad,102,33,2,5,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,52
+Bihar,Kaimur,276,27,4,3,5,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,53
+Bihar,Katihar,174,16,4,1,16,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,54
+Bihar,Khagaria,323,49,1,4,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,55
+Bihar,Kishanganj,186,20,1,0,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,56
+Bihar,Lakhisarai,156,8,1,0,9,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,5,UTTARAKHAND,57
+Bihar,Madhepura,98,11,1,4,7,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,58
+Bihar,Madhubani,272,12,4,0,22,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,59
+Bihar,Munger,376,75,2,0,12,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,60
+Bihar,Muzaffarpur,152,12,9,2,21,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,61
+Bihar,Nalanda,494,78,3,5,25,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,62
+Bihar,Nawada,367,58,2,1,9,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,63
+Bihar,Patna,171,33,4,3,38,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,64
+Bihar,Purnia,234,103,2,0,20,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,65
+Bihar,Rohtas,306,42,6,6,10,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,66
+Bihar,Saharsa,251,44,1,0,9,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,67
+Bihar,Samastipur,169,32,8,2,10,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,68
+Bihar,Saran,355,65,9,3,12,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,69
+Bihar,Sheikhpura,412,58,1,2,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,70
+Bihar,Sheohar,85,19,0,0,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,71
+Bihar,Sitamarhi,91,5,5,0,13,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,72
+Bihar,Siwan,204,49,9,4,8,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,73
+Bihar,Supaul,375,55,2,3,8,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,74
+Bihar,Vaishali,178,23,2,3,13,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,75
+Bihar,W- Champaran,334,28,2,0,24,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,76
+Chhattisgarh,Balod,181,27,6,15,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,604
+Chhattisgarh,Balodabazar,208,29,6,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,619
+Chhattisgarh,Balrampur,179,25,6,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,6,HARYANA,701
+Chhattisgarh,Bastar,228,36,8,25,5,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,77
+Chhattisgarh,Bemetara,113,17,4,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,78
+Chhattisgarh,Bijapur,98,5,5,25,6,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,79
+Chhattisgarh,Bilaspur,259,56,8,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,80
+Gujarat,Banaskantha,715,81,27,44,44,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,81
+Gujarat,Bharuch,221,26,10,20,20,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,82
+Gujarat,Bhavnagar,278,42,13,21,23,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,83
+Gujarat,Botad,90,15,5,4,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,84
+Chhattisgarh,Dantewada,56,8,4,20,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,85
+Chhattisgarh,Dhamtari,139,13,4,55,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,670
+Chhattisgarh,Durg,196,24,8,25,8,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,7,DELHI,671
+Chhattisgarh,Gariyaband,184,15,6,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,86
+Chhattisgarh,Janjgir-Champa,261,44,11,15,2,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,87
+Chhattisgarh,Jashpur,243,32,8,15,3,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,88
+Chhattisgarh,Kawardha,239,32,8,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,89
+Chhattisgarh,Kanker,91,11,6,60,13,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,90
+Chhattisgarh,Kondagaon,153,16,6,20,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,91
+Chhattisgarh,Korba,219,23,7,70,20,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,92
+Chhattisgarh,Korea,182,26,6,15,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,93
+Chhattisgarh,Mahasamund,202,25,5,25,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,94
+Chhattisgarh,Mungeli,111,27,3,15,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,95
+Chhattisgarh,Narayanpur,48,5,1,10,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,96
+Chhattisgarh,Raigarh,335,50,9,15,2,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,97
+Chhattisgarh,Raipur,245,40,11,35,9,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,98
+Chhattisgarh,Rajnandgaon,276,36,10,60,14,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,99
+Chhattisgarh,Sukma,76,9,3,10,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,100
+Chhattisgarh,Surajpur,204,32,8,15,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,101
+Chhattisgarh,Surguja,193,24,7,15,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,102
+Goa,North Goa,114,0,3,0,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,102
+Goa,South Goa,105,0,2,0,13,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,103
+Gujarat,Ahmedabad,193,83,16,23,34,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,104
+Gujarat,Amreli,206,6,12,42,38,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,105
+Gujarat,Anand,251,33,14,26,28,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,106
+Gujarat,Arvalli,204,21,10,15,17,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,107
+Gujarat,Chhota Udepur,286,27,12,24,24,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,108
+Gujarat,Dahod,553,37,21,84,62,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,109
+Gujarat,Dang,59,0,3,9,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,110
+Gujarat,Devbhumi Dwarka,165,21,4,4,4,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,111
+Gujarat,Gandhinagar,155,13,9,17,23,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,112
+Gujarat,Gir Somnath,151,11,8,22,22,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,113
+Gujarat,Jamnagar,184,16,9,26,29,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,114
+Gujarat,Junagadh,226,32,10,11,14,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,115
+Gujarat,Kutchh,418,32,17,24,39,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,116
+Gujarat,Kheda,276,25,15,40,39,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,117
+Gujarat,Mehsana,261,27,12,34,36,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,8,RAJASTHAN,629
+Gujarat,Mahisagar,209,19,8,15,17,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,118
+Gujarat,Morbi,182,14,6,16,20,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,119
+Gujarat,Narmada,150,13,4,24,15,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,120
+Jharkhand,Bokaro,101,2,8,14,18,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,121
+Jharkhand,Chatra,87,8,5,6,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,122
+Jharkhand,Deoghar,171,1,9,9,12,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,123
+Jharkhand,Dhanbad,134,20,7,6,7,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,124
+Jharkhand,Dumka,240,20,12,8,22,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,125
+Jharkhand,Garhwa,108,10,6,9,1,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,126
+Jharkhand,Giridih,177,17,11,2,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,127
+Jharkhand,Godda,177,9,7,4,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,128
+Jharkhand,Gumla,231,0,10,12,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,129
+Jharkhand,Hazaribagh,136,7,8,4,7,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,130
+Jharkhand,Jamtara,127,6,4,2,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,131
+Jharkhand,Khunti,100,7,5,8,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,132
+Jharkhand,Kodarma,62,6,6,3,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,133
+Jharkhand,Latehar,94,4,6,3,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,134
+Jharkhand,Lohardaga,67,9,4,7,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,135
+Jharkhand,Pakaur,116,9,5,5,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,136
+Jharkhand,Palamu,169,22,7,2,1,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,137
+Jharkhand,Pashchimi Singhbhum,332,9,13,11,6,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,138
+Gujarat,Navsari,274,25,12,22,25,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,139
+Gujarat,Panchmahal,282,31,13,18,23,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,140
+Gujarat,Patan,298,25,15,28,30,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,141
+Gujarat,Porbandar,79,7,4,6,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,142
+Gujarat,Rajkot,319,47,13,25,35,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,143
+Gujarat,Sabarkantha,245,16,13,36,33,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,144
+Gujarat,Surat,293,55,21,65,48,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,145
+Gujarat,Surendranagar,342,46,12,10,10,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,146
+Gujarat,Tapi,230,28,8,11,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,147
+Gujarat,Vadodara,219,46,10,23,31,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,148
+Gujarat,Valsad,339,31,10,24,27,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,149
+Haryana,Ambala,94,0,4,10,20,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,150
+Haryana,Bhiwani,139,26,6,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,151
+Haryana,Ch-Dadri,75,12,3,0,0,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,152
+Haryana,Faridabad,93,2,8,0,23,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,153
+Haryana,Fatehabad,131,22,4,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,154
+Haryana,Gurugram,73,3,3,7,25,2,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,155
+Haryana,Hisar,189,7,10,9,24,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,156
+Haryana,Jind,160,24,7,1,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,157
+Haryana,Jhajjar,131,8,6,3,21,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,158
+Haryana,Karnal,137,6,6,10,18,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,159
+Haryana,Kaithal,144,20,6,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,160
+Haryana,Kurukshetra,112,4,5,5,15,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,161
+Haryana,Narnaul,128,8,7,7,10,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,162
+Haryana,Nuh,50,6,3,44,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,163
+Haryana,Palwal,81,6,7,14,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,164
+Haryana,Panchkula,39,0,3,7,9,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,165
+Haryana,Panipat,81,7,6,8,15,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,166
+Haryana,Rewari,112,16,5,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,167
+Haryana,Rohtak,116,20,7,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,168
+Haryana,Sirsa,139,8,8,12,18,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,169
+Haryana,Sonipat,152,10,8,10,22,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,170
+Haryana,Yamunanagar,96,3,6,17,16,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,171
+Himachal Pradesh,Bilaspur,120,38,7,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,172
+Himachal Pradesh,Chamba,177,45,5,0,2,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,173
+Himachal Pradesh,Hamirpur,150,32,2,0,2,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,174
+Himachal Pradesh,Kangra,441,87,17,0,7,18,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,175
+Himachal Pradesh,Kinnaur,34,24,4,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,176
+Himachal Pradesh,Kullu,103,28,5,0,0,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,177
+Himachal Pradesh,L & S,36,17,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,178
+Himachal Pradesh,Mandi,325,85,13,0,5,13,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,179
+Himachal Pradesh,Sirmaur,253,121,17,0,3,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,180
+Himachal Pradesh,Shimla,149,44,6,0,0,12,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,181
+Himachal Pradesh,Solan,175,41,6,0,0,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,182
+Himachal Pradesh,Una,134,24,9,0,1,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,183
+Jharkhand,Purbi Singhbhum,234,0,9,9,18,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,184
+Jharkhand,Ramgarh,52,5,4,2,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,185
+Jharkhand,Ranchi,274,18,13,50,8,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,186
+Jharkhand,Sahibganj,130,10,6,6,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,187
+Jharkhand,Saraikela,180,4,6,12,6,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,633
+Jharkhand,Simdega,145,7,6,10,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,640
+Karnataka,Bagalkote,233,49,8,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,659
+Karnataka,Bangalore (R),199,48,2,0,0,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,660
+Karnataka,Bangalore (U),279,96,5,0,0,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,9,UTTAR PRADESH,661
+Karnataka,Belgaum,620,148,16,0,0,9,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,188
+Karnataka,Bellary,293,73,11,57,30,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,189
+Karnataka,Bidar,275,58,8,109,25,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,190
+Karnataka,Bijapur,310,68,9,0,0,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,191
+Karnataka,Chamarajanagar,256,64,3,0,0,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,192
+Karnataka,Chikkaballapura,203,60,2,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,193
+Karnataka,Chikmagalur,368,90,5,0,2,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,194
+Karnataka,Chitradurga,342,82,11,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,195
+Karnataka,Dakshina Kannada,430,72,8,0,0,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,196
+Karnataka,Davanagere,324,101,6,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,197
+Karnataka,Dharwad,185,45,0,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,198
+Karnataka,Gadag,190,39,2,0,0,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,199
+Karnataka,Gulbarga,337,93,16,78,32,6,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,200
+Karnataka,Hassan,486,136,15,0,0,7,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,201
+Karnataka,Haveri,311,69,5,0,0,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,202
+Karnataka,Kodagu,196,29,7,0,0,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,203
+Karnataka,Kolar,266,69,2,0,0,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,204
+Karnataka,Koppal,176,49,9,78,23,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,205
+Karnataka,Mandya,410,115,10,0,0,6,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,206
+Karnataka,Mysore,510,147,10,65,37,6,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,207
+Karnataka,Raichur,213,52,6,75,25,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,208
+Karnataka,Ramanagar,249,63,5,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,209
+Karnataka,Shimoga,356,110,7,0,0,6,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,210
+Karnataka,Tumkur,572,147,4,0,0,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,211
+Karnataka,Udupi,336,62,6,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,212
+Karnataka,Uttara Kannada,344,83,3,0,0,10,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,213
+Karnataka,Yadgir,169,42,6,109,29,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,214
+Kerala,Thiruvanathapuram,483,70,24,0,16,8,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,215
+Kerala,Kollam,421,50,17,0,12,8,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,216
+Kerala,Pathanamthitta,261,35,12,0,8,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,217
+Kerala,Alappuzha,366,49,16,0,14,6,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,218
+Kerala,Kottayam,333,47,20,0,11,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,219
+Kerala,Idukki,308,33,13,0,8,4,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,220
+Kerala,Ernakulam,410,75,23,0,15,11,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,221
+Kerala,Thrissur,472,65,24,0,18,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,222
+Kerala,Palakkad,504,65,19,0,16,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,223
+Kerala,Malappuram,578,79,21,0,17,7,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,224
+Kerala,Kozhikkode,401,61,16,0,13,7,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,10,BIHAR,611
+Kerala,Wayanad,182,20,9,0,4,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,11,SIKKIM,225
+Kerala,Kannur,414,77,9,0,11,7,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,11,SIKKIM,226
+Kerala,Kasargode,247,35,6,0,7,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,11,SIKKIM,227
+Madhya Pradesh,Agar Malwa,77,6,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,11,SIKKIM,228
+Madhya Pradesh,Alirajpur,185,16,6,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,229
+Madhya Pradesh,Anuppur,169,14,8,0,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,230
+Madhya Pradesh,Ashok Nagar,132,6,2,0,5,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,231
+Madhya Pradesh,Balaghat,292,34,7,0,4,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,232
+Madhya Pradesh,Barwani,330,21,8,0,9,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,233
+Madhya Pradesh,Betul,323,31,9,0,4,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,234
+Madhya Pradesh,Bhind,210,14,7,0,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,235
+Madhya Pradesh,Bhopal,66,10,2,0,8,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,236
+Madhya Pradesh,Burhanpur,98,15,4,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,237
+Madhya Pradesh,Chhatarpur,235,27,10,0,12,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,238
+Madhya Pradesh,Chhindwada,305,64,11,0,5,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,239
+Madhya Pradesh,Damoh,176,13,6,0,4,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,240
+Madhya Pradesh,Datia,110,11,4,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,241
+Madhya Pradesh,Dewas,209,11,7,0,13,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,242
+Madhya Pradesh,Dhar,475,49,15,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,243
+Madhya Pradesh,Dindori,191,21,7,0,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,628
+Madhya Pradesh,Guna,160,5,5,0,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,666
+Madhya Pradesh,Gwalior,119,25,3,0,3,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,677
+Madhya Pradesh,Harda,79,7,4,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,678
+Madhya Pradesh,Hoshangabad,157,16,6,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,679
+Madhya Pradesh,Indore,115,33,6,0,7,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,718
+Madhya Pradesh,Jabalpur,178,24,6,0,13,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,719
+Madhya Pradesh,Jhabua,292,21,5,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,723
+Madhya Pradesh,Katni,163,20,6,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,724
+Madhya Pradesh,Khandwa,181,24,7,0,7,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,724
+Madhya Pradesh,Khargone,317,58,10,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,12,ARUNACHAL PRADESH,725
+Madhya Pradesh,Mandla,274,34,8,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,244
+Madhya Pradesh,Mandsaur,180,40,7,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,244
+Madhya Pradesh,Morena,237,24,7,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,245
+Madhya Pradesh,Narsinghpur,136,23,7,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,246
+Madhya Pradesh,Neemuch,103,18,3,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,247
+Madhya Pradesh,Panna,155,14,6,0,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,248
+Madhya Pradesh,Raisen,187,19,7,0,2,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,249
+Madhya Pradesh,Rajgarh,215,24,5,0,4,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,250
+Madhya Pradesh,Ratlam,197,28,6,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,251
+Madhya Pradesh,Rewa,316,37,9,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,613
+Madhya Pradesh,Sagar,266,32,11,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,614
+Madhya Pradesh,Satna,309,45,9,0,4,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,615
+Madhya Pradesh,Sehore,163,18,8,0,4,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,13,NAGALAND,736
+Madhya Pradesh,Seoni,283,26,5,0,6,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,252
+Madhya Pradesh,Shahdol,233,20,7,0,10,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,253
+Madhya Pradesh,Shajapur,117,17,4,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,254
+Madhya Pradesh,Sheopur,107,7,3,0,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,255
+Madhya Pradesh,Shivpuri,263,15,9,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,256
+Madhya Pradesh,Sidhi,196,28,6,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,257
+Madhya Pradesh,Singroli,206,13,7,0,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,258
+Madhya Pradesh,Tikamgarh,207,23,7,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,259
+Madhya Pradesh,Ujjain,208,19,5,0,10,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,260
+Madhya Pradesh,Umaria,124,13,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,711
+Madhya Pradesh,Vidisha,200,13,7,0,14,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,712
+Maharashtra,Ahmednagar,529,93,24,36,15,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,713
+Maharashtra,Akola,179,37,5,0,0,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,714
+Maharashtra,Amravati,291,20,11,48,48,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,715
+Maharashtra,Aurangabad,279,64,12,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,716
+Maharashtra,Beed,296,56,10,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,14,MANIPUR,717
+Maharashtra,Bhandara,192,6,7,1,28,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,261
+Maharashtra,Buldhana,280,57,13,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,261
+Maharashtra,Chandrapur,319,24,10,20,43,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,262
+Maharashtra,Dhule,232,45,6,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,263
+Maharashtra,Gadchiroli,289,1,9,87,47,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,264
+Maharashtra,Gondia,195,32,10,58,9,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,265
+Maharashtra,Hingoli,13,3,3,119,24,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,266
+Maharashtra,Jalgaon,426,88,18,17,7,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,267
+Maharashtra,Jalna,218,43,9,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,268
+Maharashtra,Kolhapur,413,91,18,0,0,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,726
+Maharashtra,Latur,219,30,10,33,24,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,727
+Maharashtra,Mumbai,0,120,0,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,727
+Maharashtra,Nagpur,316,77,10,0,0,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,727
+Maharashtra,Nanded,272,40,13,105,36,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,728
+Maharashtra,Nandurbar,208,49,12,84,11,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,15,MIZORAM,728
+Maharashtra,Nashik,592,110,23,0,26,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,269
+Maharashtra,Osmanabad,140,21,6,70,23,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,270
+Maharashtra,Palghar,264,60,10,50,7,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,271
+Maharashtra,Parbhani,215,39,6,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,272
+Maharashtra,Pune,514,143,34,25,30,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,652
+Maharashtra,Raigad,288,59,9,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,653
+Maharashtra,Ratnagiri,378,69,8,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,654
+Maharashtra,Sangli,320,70,14,0,0,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,16,TRIPURA,655
+Maharashtra,Satara,394,44,15,6,32,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,273
+Maharashtra,Sindhudurg,203,21,7,45,17,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,274
+Maharashtra,Solapur,431,93,16,0,0,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,275
+Maharashtra,Thane,190,113,15,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,276
+Maharashtra,Wardha,139,4,8,42,27,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,277
+Maharashtra,Washim,60,1,6,,25,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,278
+Maharashtra,Yavatmal,435,64,14,93,0,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,279
+Manipur,Bishnupur,35,8,2,13,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,656
+Manipur,Chandel,21,2,1,5,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,657
+Manipur,Churchandpur,46,7,1,6,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,658
+Manipur,Imphal East,51,12,2,8,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,17,MEGHALAYA,663
+Manipur,Imphal West,52,11,3,12,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,280
+Manipur,Senapati,34,8,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,280
+Manipur,Tamenglong,13,4,1,3,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,281
+Manipur,Thoubal,44,8,4,9,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,281
+Manipur,Ukhrul,23,6,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,282
+Manipur,Tengnoupal,12,4,1,1,0,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,282
+Manipur,Kakching,18,6,1,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,283
+Manipur,Jiribam,9,2,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,283
+Manipur,Kamjong,18,2,1,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,284
+Manipur,Pherjawl,18,5,1,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,285
+Manipur,None,17,3,1,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,286
+Manipur,Kangpokpi,18,6,1,4,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,287
+Meghalaya,East Garo Hills,31,7,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,288
+Meghalaya,East Jainta Hills,35,6,2,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,288
+Meghalaya,East Khasi Hills,72,25,7,12,2,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,289
+Meghalaya,North Garo Hills,52,9,1,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,289
+Meghalaya,Ri Bhoi,32,8,3,10,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,290
+Meghalaya,South Garo Hills,21,6,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,291
+Meghalaya,South West Garo Hills,27,9,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,291
+Meghalaya,South West Khasi Hills,19,4,2,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,291
+Meghalaya,West Garo Hills,64,9,5,10,4,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,292
+Meghalaya,West Jaintia Hills,46,12,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,292
+Meghalaya,West khasi Hills,46,15,2,0,0,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,293
+Mizoram,Aizawl East District,57,9,2,0,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,294
+Mizoram,Aizawl West District,37,9,0,0,2,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,294
+Mizoram,Champhai District,59,11,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,295
+Mizoram,Kolasib District,26,5,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,295
+Mizoram,Lawngtlai District,37,5,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,296
+Mizoram,Lunglei District,70,11,1,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,297
+Mizoram,Mamit District,33,6,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,298
+Mizoram,Saiha District,24,4,0,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,299
+Mizoram,Serchhip District,27,5,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,300
+Nagaland,Dimapur,47,8,2,6,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,301
+Nagaland,Kiphire,19,2,1,15,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,302
+Nagaland,Kohima,40,14,3,10,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,612
+Nagaland,Longleng,8,3,0,3,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,612
+Nagaland,Mokokchung,51,15,3,4,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,616
+Nagaland,Mon,50,15,2,7,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,616
+Nagaland,Peren,16,8,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,616
+Nagaland,Phek,44,23,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,617
+Nagaland,Tuensang,38,13,2,11,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,617
+Nagaland,Wokha,37,12,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,618
+Nagaland,Zunheboto,47,13,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,618
+Odisha,Anugul,164,11,9,2,20,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,705
+Odisha,Balasore,275,33,17,0,41,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,706
+Odisha,Bargarh,202,19,15,2,30,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,707
+Odisha,Bhadrak,176,21,7,2,33,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,708
+Odisha,Bolangir,222,18,15,4,30,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,709
+Odisha,Boudh,64,0,5,3,12,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,18,ASSAM,710
+Odisha,Cuttack,325,14,22,7,59,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,303
+Odisha,Debagarh,38,1,4,4,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,304
+Odisha,Dhenkanal,165,25,10,2,13,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,305
+Odisha,Gajapati,136,3,8,0,19,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,306
+Odisha,Ganjam,454,65,28,6,35,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,307
+Odisha,Jagatsinghapur,188,13,11,1,22,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,308
+Odisha,Jajapur,258,15,12,2,47,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,309
+Odisha,Jharsuguda,62,4,6,4,15,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,310
+Odisha,Kalahandi,234,20,18,8,26,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,311
+Odisha,Kandhamal,170,8,14,2,32,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,312
+Odisha,Kendrapara,224,15,8,3,31,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,313
+Odisha,Kendujhar,350,30,17,1,37,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,314
+Odisha,Khordha,196,20,16,6,54,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,315
+Odisha,Koraput,304,6,16,3,45,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,316
+Odisha,Malkangiri,158,5,6,0,22,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,317
+Odisha,Mayurbhanj,574,33,28,15,55,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,318
+Odisha,Nabarangapur,287,12,10,2,29,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,319
+Odisha,Nayagarh,166,16,12,0,22,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,320
+Odisha,Nuapada,90,5,5,5,12,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,321
+Odisha,Puri,237,13,17,4,38,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,664
+Odisha,Rayagada,235,7,11,0,32,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,702
+Odisha,Sambalpur,166,2,11,1,34,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,703
+Odisha,Sonapur,89,1,5,0,19,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,19,WEST BENGAL,704
+Odisha,Sundargarh,386,31,21,4,38,1,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,322
+Punjab,Amritsar,140,22,6,39,12,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,323
+Punjab,Barnala,57,3,4,14,7,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,324
+Punjab,Bathinda,111,6,9,25,13,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,325
+Punjab,Faridkot,54,3,4,8,5,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,326
+Punjab,Ferozpur,107,1,4,15,16,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,327
+Punjab,Fazilka,84,6,6,25,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,328
+Punjab,F.G.Sahib,61,0,5,12,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,329
+Punjab,Gurdaspur,205,9,13,17,22,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,330
+Punjab,Hoshiarpur,223,6,12,21,26,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,331
+Punjab,Jalandhar,173,2,12,25,27,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,332
+Punjab,Kapurthala,81,0,5,7,12,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,333
+Punjab,Ludhiana,209,5,11,56,26,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,334
+Punjab,Mansa,76,3,4,27,10,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,335
+Punjab,Moga,89,10,6,33,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,336
+Punjab,Mohali,51,1,5,25,11,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,337
+Punjab,Mukatsar,75,2,5,27,17,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,338
+Punjab,Nawanshahar,92,4,3,3,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,339
+Punjab,Patiala,177,1,10,8,27,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,340
+Punjab,Pathankot,54,0,4,15,9,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,341
+Punjab,Ropar,67,1,5,18,11,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,342
+Punjab,Sangrur,183,7,8,9,21,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,343
+Punjab,Tarn Taran,142,3,11,10,15,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,606
+Rajasthan,Ajmer,370,72,22,2,17,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,20,JHARKHAND,607
+Rajasthan,Alwar,676,123,37,8,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,344
+Rajasthan,Banswara,450,56,21,4,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,345
+Rajasthan,Baran,259,30,14,6,22,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,346
+Rajasthan,Barmer,720,89,23,3,14,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,347
+Rajasthan,Bharatpur,394,64,17,1,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,348
+Rajasthan,Bhilwara,533,77,25,3,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,349
+Rajasthan,Bikaner,414,45,16,5,26,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,350
+Rajasthan,Bundi,207,27,12,0,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,351
+Rajasthan,Chittorgarh,381,54,21,3,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,352
+Rajasthan,Churu,425,80,16,12,21,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,353
+Rajasthan,Dausa,313,48,15,2,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,354
+Rajasthan,Dholpur,227,36,7,3,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,355
+Rajasthan,Dungarpur,349,53,15,2,4,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,356
+Rajasthan,Ganganagar,414,52,17,2,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,357
+Rajasthan,Hanumangarh,358,48,16,3,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,358
+Rajasthan,Jaipur I,332,118,19,9,18,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,359
+Rajasthan,Jaipur II,272,58,13,6,12,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,360
+Rajasthan,Jaisalmer,156,20,8,2,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,361
+Rajasthan,Jalore,404,62,10,3,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,362
+Rajasthan,Jhalawar,315,35,14,8,13,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,363
+Rajasthan,Jhunjhunu,585,104,26,7,11,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,364
+Rajasthan,Jodhpur,651,95,25,2,18,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,365
+Rajasthan,Karauli,276,36,11,2,4,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,366
+Rajasthan,Kota,185,45,13,4,18,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,367
+Rajasthan,Nagaur,795,117,31,9,9,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,368
+Rajasthan,Pali,476,80,21,1,10,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,369
+Rajasthan,Pratapgarh,202,28,8,0,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,370
+Rajasthan,Rajsamand,257,33,12,3,13,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,371
+Rajasthan,Sawai Madhopur,266,33,14,1,5,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,372
+Rajasthan,Sikar,631,96,30,9,15,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,21,ODISHA,373
+Rajasthan,Sirohi,221,30,9,2,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,374
+Rajasthan,Tonk,290,58,9,0,9,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,375
+Rajasthan,Udaipur,625,95,28,3,16,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,376
+Sikkim,East,48,7,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,377
+Sikkim,West,42,7,0,14,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,378
+Sikkim,North,19,5,0,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,379
+Sikkim,South,39,6,1,14,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,380
+Tamil Nadu,Ariyalur,103,8,6,14,25,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,381
+Tamil Nadu,Chennai,700,143,15,0,0,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,382
+Tamil Nadu,Coimbatore,444,37,12,67,40,12,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,383
+Tamil Nadu,Cuddalore,336,36,13,19,22,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,384
+Tamil Nadu,Dharmapuri,204,5,8,21,38,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,385
+Tamil Nadu,Dindigul,301,25,14,37,34,12,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,386
+Tamil Nadu,Erode,355,42,14,12,20,7,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,387
+Tamil Nadu,Kancheepuram,404,29,13,41,35,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,388
+Tamil Nadu,Kanyakumari,278,25,9,17,13,8,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,389
+Tamil Nadu,Karur,172,7,8,18,22,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,636
+Tamil Nadu,Krishnagiri,245,3,10,25,48,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,637
+Tamil Nadu,Madurai,454,49,13,20,26,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,642
+Tamil Nadu,Nagapattinam,242,31,11,34,16,11,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,643
+Tamil Nadu,Namakkal,257,28,15,16,20,8,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,644
+Tamil Nadu,Perambalur,74,1,4,21,24,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,645
+Tamil Nadu,Pudukkottai,218,3,13,35,60,12,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,646
+Tamil Nadu,Ramanathapuram,168,4,11,91,44,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,647
+Tamil Nadu,Salem,486,16,20,12,71,11,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,648
+Tamil Nadu,Sivaganga,274,14,12,21,26,16,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,649
+Tamil Nadu,Thanjavur,336,50,14,16,13,13,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,650
+Tamil Nadu,The Nilgiris,166,3,4,42,30,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,22,CHHATTISGARH,734
+Tamil Nadu,Theni,172,2,8,12,31,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,390
+Tamil Nadu,Thiruppur,316,12,13,24,42,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,391
+Tamil Nadu,Thiruvallur,310,37,14,43,17,10,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,392
+Tamil Nadu,Thiruvarur,191,28,10,16,12,7,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,393
+Tamil Nadu,Thoothukudi,262,16,12,37,32,8,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,394
+Tamil Nadu,Tiruchirappalli,382,53,14,16,17,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,395
+Andhra Pradesh,Srikakulam,422,7,15,43,88,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,396
+Andhra Pradesh,Vizianagaram,373,4,11,58,76,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,397
+Andhra Pradesh,Visakhapatnam,496,14,12,87,113,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,398
+Andhra Pradesh,East Godavari,774,12,26,66,146,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,399
+Andhra Pradesh,West Godavari,568,9,14,67,112,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,400
+Andhra Pradesh,Krishna,528,15,12,65,124,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,401
+Andhra Pradesh,Guntur,626,15,17,54,116,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,402
+Andhra Pradesh,Prakasam,499,6,14,35,99,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,403
+Andhra Pradesh,Nellore,449,7,14,28,88,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,404
+Andhra Pradesh,chittoor,616,7,15,28,120,4,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,405
+Andhra Pradesh,Kadapa,420,6,12,28,89,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,406
+Andhra Pradesh,Ananthapur,557,16,15,29,107,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,407
+Tamil Nadu,Tirunelveli,414,69,19,39,16,16,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,408
+Tamil Nadu,Tiruvannamalai,395,59,18,35,22,9,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,409
+Tamil Nadu,Vellore,508,55,20,56,44,12,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,410
+Tamil Nadu,Villupuram,535,62,22,48,26,11,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,411
+Tamil Nadu,Virudhunagar,209,3,11,80,44,10,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,412
+Telangana,Adilabad,126,0,2,0,27,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,413
+West Bengal,Murshidabad,832,81,28,0,0,7,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,414
+Telangana,Bhadradri Kothagudem,266,0,4,1,34,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,415
+Telangana,Hyderabad,0,0,10,53,91,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,416
+Telangana,Jagtial,143,0,3,8,23,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,417
+Telangana,Jangaon,102,0,0,10,17,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,418
+Telangana,Jayashankar Bhupalapally,83,0,2,7,14,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,419
+Telangana,Jogulamba Gadwal,91,0,1,0,13,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,420
+Telangana,Kamareddy,170,0,6,0,23,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,421
+Telangana,Karimnagar,139,0,3,0,26,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,422
+Telangana,Khammam,216,0,3,10,30,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,423
+Telangana,Komaram Bheem Asifabad,108,0,2,0,22,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,424
+Telangana,Mahabubabad,171,0,2,2,21,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,425
+Telangana,Mahabubnagar,102,0,2,28,17,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,426
+Telangana,Mancherial,121,0,3,0,21,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,427
+Telangana,Medak,156,0,2,0,18,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,428
+Telangana,Medchal Malkajgiri,103,0,2,24,34,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,429
+Telangana,Mulugu,89,0,2,0,15,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,430
+Telangana,Nagarkurnool,178,0,4,0,27,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,431
+Telangana,Nalgonda,257,0,1,0,39,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,432
+Telangana,Narayanpet,87,0,2,0,16,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,433
+Telangana,Nirmal,102,0,2,0,20,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,434
+Telangana,Nizamabad,225,0,8,0,37,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,435
+Telangana,Peddapalli,104,0,3,0,24,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,436
+Telangana,Rajanna Sircilla,84,0,0,5,17,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,437
+Telangana,Rangareddy,232,0,7,20,56,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,638
+Telangana,Sangareddy,245,0,2,0,36,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,639
+Telangana,Siddipet,188,0,3,5,34,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,667
+Telangana,Suryapet,170,0,2,1,27,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,23,MADHYA PRADESH,722
+Telangana,Vikarabad,154,0,4,0,25,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,438
+Telangana,Wanaparthy,102,0,2,0,15,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,439
+Telangana,Warangal Rural,134,0,3,9,17,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,440
+Telangana,Warangal Urban,81,0,0,0,28,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,441
+Telangana,Yadadri Bhongir,129,0,3,0,21,1,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,442
+Tripura,Gomati District,147,12,3,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,443
+Tripura,Khowai District,104,9,1,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,444
+Tripura,North District,95,14,3,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,445
+Tripura,Sepahijala District,146,15,4,0,0,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,446
+Tripura,South District,110,7,5,40,11,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,447
+Tripura,West Tripura,173,13,3,0,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,448
+Tripura,Unakoti District,70,6,1,0,5,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,449
+Tripura,Dhalai,121,6,2,0,10,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,450
+Uttarakhand,Almora,206,25,8,0,0,2,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,451
+Uttarakhand,Bageshwar,84,13,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,452
+Uttarakhand,Chamoli,110,16,6,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,453
+Uttarakhand,Champawat,68,8,1,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,454
+Uttarakhand,Dehradun,157,21,7,18,2,4,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,455
+Uttarakhand,Haridwar,160,26,7,0,3,2,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,456
+Uttarakhand,Nainital,128,12,8,15,3,4,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,457
+Uttarakhand,Pauri Garhwal,228,26,5,10,3,3,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,458
+Uttarakhand,Pithoragarh,156,18,4,0,0,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,459
+Uttarakhand,Tehri Garhwal,68,29,5,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,460
+Uttarakhand,Rudraprayag,204,16,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,461
+Uttarakhand,U S NAGAR,153,23,7,0,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,462
+Uttarakhand,Uttarkashi,82,10,4,0,0,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,641
+Uttar Pradesh,Agra,377,42,16,18,33,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,668
+Uttar Pradesh,Aligarh,333,45,13,0,8,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,669
+Uttar Pradesh,Allahabad (Prayagpur),539,58,19,23,26,0,6,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,672
+Uttar Pradesh,Ambedkar Nagar,272,15,10,0,13,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,673
+Uttar Pradesh,Auraiya,148,17,7,17,9,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,674
+Uttar Pradesh,Azamgarh,477,56,19,16,21,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,675
+Uttar Pradesh,Bagpat,200,6,7,0,18,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,24,GUJARAT,676
+Uttar Pradesh,Bahraich,287,37,10,23,24,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,466
+Uttar Pradesh,Ballia,367,71,9,0,10,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,467
+Uttar Pradesh,Balrampur,194,7,9,21,18,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,468
+Uttar Pradesh,Banda,277,38,4,0,14,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,469
+Uttar Pradesh,Barabanki,338,25,17,14,30,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,470
+Uttar Pradesh,Bareilly,397,52,6,26,29,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,471
+Uttar Pradesh,Basti,267,32,11,6,5,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,472
+Uttar Pradesh,Bijnor,331,48,7,12,16,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,473
+Uttar Pradesh,Budaun,291,40,8,0,17,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,474
+Uttar Pradesh,Bulandshahar,344,41,10,0,30,0,4,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,475
+Uttar Pradesh,C S M Nagar (Amethi),213,19,13,0,12,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,476
+Uttar Pradesh,Chandauli,232,21,4,16,9,0,4,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,477
+Uttar Pradesh,Chitrakoot,111,14,6,23,14,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,478
+Uttar Pradesh,Deoria,320,66,16,0,11,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,479
+Uttar Pradesh,Etah,186,24,4,5,10,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,480
+Uttar Pradesh,Etawah,165,14,8,4,19,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,481
+Uttar Pradesh,Faizabad (Ayodhya),255,33,5,0,7,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,482
+Uttar Pradesh,Farrukhabad,165,13,8,27,18,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,484
+Uttar Pradesh,Fatehpur,302,35,7,19,13,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,485
+Uttar Pradesh,Firozabad,216,43,9,4,22,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,486
+Uttar Pradesh,Gautam Buddha Nagar,110,12,5,18,25,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,487
+Uttar Pradesh,Ghaziabad,130,21,4,16,45,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,488
+Uttar Pradesh,Ghazipur,418,43,6,0,20,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,489
+Uttar Pradesh,Gonda,320,39,16,2,13,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,490
+Uttar Pradesh,Gorakhpur,513,57,9,16,34,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,491
+Uttar Pradesh,Hamirpur,214,34,4,0,6,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,492
+Uttar Pradesh,Hapur,176,7,4,0,19,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,493
+Uttar Pradesh,Hardoi,421,45,7,12,17,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,494
+Uttar Pradesh,Hathras,194,10,7,0,17,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,495
+Uttar Pradesh,Jalaun,263,33,7,23,8,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,496
+Uttar Pradesh,Jaunpur,503,73,16,4,10,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,497
+Uttar Pradesh,Jhansi,311,25,8,27,24,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,498
+Uttar Pradesh,J P Nagar (Amroha),175,15,8,0,16,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,499
+Uttar Pradesh,Kannauj,191,14,11,0,19,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,500
+Uttar Pradesh,Kanpur Dehat,240,11,6,0,20,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,27,MAHARASHTRA,665
+Uttar Pradesh,Kanpur Nagar,369,23,10,21,67,0,4,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,502
+Uttar Pradesh,Kashi Ram Nagar,169,24,7,1,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,503
+Uttar Pradesh,Kaushambi,175,24,5,0,12,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,504
+Uttar Pradesh,Kushinagar,352,37,16,16,20,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,505
+Uttar Pradesh,Lakhimpur Kheri,367,46,14,19,14,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,506
+Uttar Pradesh,Lalitpur,175,21,4,22,6,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,510
+Uttar Pradesh,Lucknow,291,18,17,15,62,0,10,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,511
+Uttar Pradesh,Maharajganj,291,27,12,0,13,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,515
+Uttar Pradesh,Mahoba,146,2,4,4,15,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,517
+Uttar Pradesh,Mainpuri,206,37,10,0,9,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,519
+Uttar Pradesh,Mathura,205,20,7,0,17,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,520
+Uttar Pradesh,Maunathbhanjan,225,21,6,0,22,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,521
+Uttar Pradesh,Meerut,252,14,12,28,43,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,28,ANDHRA PRADESH,523
+Uttar Pradesh,Mirzapur,245,22,16,18,16,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,524
+Uttar Pradesh,Moradabad,249,31,3,18,29,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,525
+Uttar Pradesh,Muzaffarnagar,260,28,4,26,21,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,526
+Uttar Pradesh,Pilibhit,199,23,6,0,5,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,527
+Uttar Pradesh,Pratapgarh,355,36,12,0,18,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,528
+Uttar Pradesh,Rae Bareli,333,36,17,19,15,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,529
+Uttar Pradesh,Rampur,211,15,5,0,20,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,530
+Uttar Pradesh,Saharanpur,363,43,12,0,17,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,531
+Uttar Pradesh,Sambhal,214,27,9,0,4,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,532
+Uttar Pradesh,Sant Kabir Nagar,185,22,4,0,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,533
+Uttar Pradesh,Sant Ravidas Nagar,161,8,5,0,9,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,534
+Uttar Pradesh,Shahjahanpur,296,37,16,2,10,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,535
+Uttar Pradesh,Shamli,133,6,7,2,18,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,536
+Uttar Pradesh,Shrawasti,92,4,6,33,8,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,537
+Uttar Pradesh,Siddharth Nagar,261,55,8,17,10,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,538
+Uttar Pradesh,Sitapur,447,65,18,24,2,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,539
+Uttar Pradesh,Sonbhadra,173,26,7,0,5,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,540
+Uttar Pradesh,Sultanpur,238,19,13,7,23,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,541
+Uttar Pradesh,Unnav,337,39,7,20,15,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,542
+Uttar Pradesh,Varanasi,298,20,12,22,31,0,4,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,543
+West Bengal,Alipurduar,209,5,7,27,9,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,544
+West Bengal,Bankura,564,73,22,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,545
+West Bengal,Paschim Bardhaman,159,38,15,14,22,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,546
+West Bengal,Purba Bardhaman,574,18,24,18,64,3,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,547
+West Bengal,Birbhum,441,11,19,43,51,4,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,548
+West Bengal,Dakshin Dinajpur,248,22,9,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,549
+West Bengal,Darjiling,230,28,14,0,0,1,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,550
+West Bengal,Kalimpong,,7,0,0,0,,,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,630
+West Bengal,Haora,419,36,16,29,38,8,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,631
+West Bengal,Hugli,660,91,22,0,0,6,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,29,KARNATAKA,635
+West Bengal,Jalpaiguri,286,2,8,15,25,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,30,GOA,551
+West Bengal,Koch Bihar,406,31,12,0,0,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,30,GOA,552
+West Bengal,Malda,511,40,17,0,0,2,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,31,LAKSHADWEEP,553
+West Bengal,Nadia,469,64,18,0,0,5,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,554
+West Bengal,North 24-Parganas,742,149,35,0,0,12,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,555
+West Bengal,Paschim Medinipur,628,27,22,11,40,5,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,556
+West Bengal,Purba Medinipur,701,40,24,5,19,7,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,557
+West Bengal,Jhargram,219,26,8,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,558
+West Bengal,Puruliya,485,55,20,0,0,3,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,559
+West Bengal,South 24-Parganas,1068,76,33,0,0,12,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,560
+West Bengal,Uttar Dinajpur,344,24,10,0,0,4,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,561
+West Bengal,Kolkata,0,144,4,0,0,0,0,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,562
+A& N Islands,South Andman,29,10,1,10,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,563
+A& N Islands,North & Middle Andman,34,8,2,10,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,564
+A& N Islands,Nicobar,33,4,1,8,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,565
+Chandigarh,Chandigarh,4,36,2,0,10,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,566
+D & N Haveli,Uni District UT,47,8,2,24,3,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,32,KERALA,567
+Daman & Diu,Daman,6,0,1,14,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,568
+Daman & Diu,Diu,0,0,1,6,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,568
+Delhi,Central,14,69,0,0,0,3,9,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,568
+Delhi,East,15,34,0,0,0,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,569
+Delhi,New Delhi,6,73,0,0,0,3,7,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,569
+Delhi,North,8,40,0,0,0,0,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,569
+Delhi,North East,12,28,0,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,570
+Delhi,North West,29,65,0,0,0,1,5,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,571
+Delhi,Shahdara,25,33,0,0,0,1,6,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,572
+Delhi,South,13,34,0,0,0,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,572
+Delhi,South East,12,49,0,0,0,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,573
+Delhi,South West,36,42,0,0,0,1,3,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,573
+Delhi,West,34,73,0,0,0,0,7,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,574
+Lakshadweep,Lakshadweep,14,4,3,0,0,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,575
+Puducherry,Puducherry,55,10,2,1,17,3,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,576
+Puducherry,Karaikal,17,0,1,0,11,2,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,577
+Puducherry,Mahe,4,1,1,0,0,1,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,578
+Puducherry,Yanam,4,0,0,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,579
+Jammu and Kashmir,Anantnag,149,19,5,8,24,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,580
+Jammu and Kashmir,Bandipora,79,13,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,581
+Jammu and Kashmir,Baramulla,212,32,6,5,24,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,582
+Jammu and Kashmir,Budgam,152,49,9,1,1,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,583
+Jammu and Kashmir,Doda,151,26,3,12,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,584
+Jammu and Kashmir,Ganderbal,63,19,1,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,585
+Jammu and Kashmir,Jammu,176,37,8,28,21,0,2,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,585
+Jammu and Kashmir,Kargil,138,16,4,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,586
+Jammu and Kashmir,Kathua,188,38,5,9,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,586
+Jammu and Kashmir,Kishtwar,86,16,1,7,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,587
+Jammu and Kashmir,Kulgam,128,26,3,5,2,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,587
+Jammu and Kashmir,Kupwara,259,17,7,0,22,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,588
+Jammu and Kashmir,Leh,124,16,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,588
+Jammu and Kashmir,Poonch,147,32,3,2,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,589
+Jammu and Kashmir,Pulwama,92,33,3,12,3,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,590
+Jammu and Kashmir,Rajouri,217,37,7,4,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,591
+Jammu and Kashmir,Ramban,93,19,3,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,592
+Jammu and Kashmir,Reasi,111,22,2,1,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,593
+Jammu and Kashmir,Samba,80,12,3,10,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,594
+Jammu and Kashmir,Shopian,60,10,2,0,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,595
+Jammu and Kashmir,Srinagar,59,40,1,4,0,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,596
+Jammu and Kashmir,Udhampur,136,31,2,17,7,0,1,2018-19,2018,"Financial Year (Apr - Mar), 2018",India,33,TAMIL NADU,597
+,,,,,,,,,,,,India,33,TAMIL NADU,610
+,,,,,,,,,,,,India,33,TAMIL NADU,634
+,,,,,,,,,,,,India,33,TAMIL NADU,729
+,,,,,,,,,,,,India,33,TAMIL NADU,730
+,,,,,,,,,,,,India,33,TAMIL NADU,731
+,,,,,,,,,,,,India,33,TAMIL NADU,732
+,,,,,,,,,,,,India,33,TAMIL NADU,733
+,,,,,,,,,,,,India,33,TAMIL NADU,733
+,,,,,,,,,,,,India,33,TAMIL NADU,735
+,,,,,,,,,,,,India,34,PUDUCHERRY,598
+,,,,,,,,,,,,India,34,PUDUCHERRY,599
+,,,,,,,,,,,,India,34,PUDUCHERRY,600
+,,,,,,,,,,,,India,34,PUDUCHERRY,601
+,,,,,,,,,,,,India,35,ANDAMAN AND NICOBAR ISLANDS,602
+,,,,,,,,,,,,India,35,ANDAMAN AND NICOBAR ISLANDS,603
+,,,,,,,,,,,,India,35,ANDAMAN AND NICOBAR ISLANDS,632
+,,,,,,,,,,,,India,36,TELANGANA,501
+,,,,,,,,,,,,India,36,TELANGANA,507
+,,,,,,,,,,,,India,36,TELANGANA,508
+,,,,,,,,,,,,India,36,TELANGANA,509
+,,,,,,,,,,,,India,36,TELANGANA,512
+,,,,,,,,,,,,India,36,TELANGANA,513
+,,,,,,,,,,,,India,36,TELANGANA,514
+,,,,,,,,,,,,India,36,TELANGANA,516
+,,,,,,,,,,,,India,36,TELANGANA,518
+,,,,,,,,,,,,India,36,TELANGANA,522
+,,,,,,,,,,,,India,36,TELANGANA,680
+,,,,,,,,,,,,India,36,TELANGANA,681
+,,,,,,,,,,,,India,36,TELANGANA,682
+,,,,,,,,,,,,India,36,TELANGANA,683
+,,,,,,,,,,,,India,36,TELANGANA,684
+,,,,,,,,,,,,India,36,TELANGANA,685
+,,,,,,,,,,,,India,36,TELANGANA,686
+,,,,,,,,,,,,India,36,TELANGANA,687
+,,,,,,,,,,,,India,36,TELANGANA,688
+,,,,,,,,,,,,India,36,TELANGANA,689
+,,,,,,,,,,,,India,36,TELANGANA,690
+,,,,,,,,,,,,India,36,TELANGANA,691
+,,,,,,,,,,,,India,36,TELANGANA,692
+,,,,,,,,,,,,India,36,TELANGANA,693
+,,,,,,,,,,,,India,36,TELANGANA,694
+,,,,,,,,,,,,India,36,TELANGANA,695
+,,,,,,,,,,,,India,36,TELANGANA,696
+,,,,,,,,,,,,India,36,TELANGANA,697
+,,,,,,,,,,,,India,36,TELANGANA,698
+,,,,,,,,,,,,India,36,TELANGANA,699
+,,,,,,,,,,,,India,36,TELANGANA,700
+,,,,,,,,,,,,India,36,TELANGANA,720
+,,,,,,,,,,,,India,36,TELANGANA,721
+,,,,,,,,,,,,India,37,LADAKH,6
+,,,,,,,,,,,,India,37,LADAKH,9
+,,,,,,,,,,,,India,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,463
+,,,,,,,,,,,,India,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,464
+,,,,,,,,,,,,India,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,465
