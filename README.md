@@ -64,7 +64,7 @@ Challenges Faced
 ---
 
 Contribution Acknowledgment
-Each team member contributed equally to data collection, analysis, visualization, and documentation.
+- Each team member contributed equally to data collection, analysis, visualization, and documentation.
 
 ---
 
