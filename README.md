@@ -70,6 +70,7 @@ Each team member contributed equally to data collection, analysis, visualization
 
 Demo Video
 A short video demonstrating project results is available in the `assets/` folder.
+Can be accessed though this Loom Video too - https://www.loom.com/share/3a51f4ef8a8d43ba8424ee12b9c106f8?sid=3c4d620a-fc41-40d2-9e83-f5a48d119fae
 
 ---
 
