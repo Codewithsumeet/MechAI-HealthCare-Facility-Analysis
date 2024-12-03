@@ -34,7 +34,7 @@ The objective of this project is to analyze the distribution and accessibility o
 ```
 Execution Steps
 1. Clone this repository:
-   ```bash
+   bash
    git clone https://github.com/[Your_Username]/Healthcare_Facility_Analysis.git
    ```
 2. Navigate to the `src/` folder and run the analysis script:
@@ -43,7 +43,7 @@ Execution Steps
    python analysis.py
    ```
 
-   ```
+   
 4. Processed data files will be available in the `data/` folder.
 5. Visualizations will be saved in the `visuals/` folder.
 6. The final report and outputs will be in the `output/` folder.
