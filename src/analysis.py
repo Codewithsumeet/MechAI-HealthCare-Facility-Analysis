@@ -13,8 +13,6 @@
 #
 # Data Source:
 # The dataset is sourced from NDAP (https://ndap.niti.gov.in/dataset/7035), which includes multiple files:
-# - 7035_KEYS: Contains metadata or keys related to the facility data.
-# - 7035_METADATA: Provides detailed metadata about each column in the dataset.
 # - 7035_source_data: The main dataset containing raw healthcare facility data.
 # - NDAP_REPORT_7035: A summary report of the dataset.
 #
